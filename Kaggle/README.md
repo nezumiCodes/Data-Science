@@ -13,10 +13,10 @@
 <ul>
     <li>Open Google Colab and start a new notebook.</li>
     <li>Click on the folder icon to the left, and then the <code>Mount Drive</code> icon</li>
-    <li style="list-style: none;"><img src="/img/google_colab.png" alt="Alt Text" width="200" height="150"></li>
+    <li style="list-style: none;"><img src="/Kaggle/img/google_colab.png" alt="Alt Text" width="200" height="150"></li>
     <li>Once clicked, the Google Drive will mount to your notebook. </li>
     <li>Navigate within <code>drive/MyDrive</code> and create a <code>Kaggle</code> folder inside.</li>
-    <li style="list-style: none;"><img src=".img/google_colab_1.png" alt="Alt Text" width="200" height="150"></li>
+    <li style="list-style: none;"><img src="/Kaggle/img/google_colab_1.png" alt="Alt Text" width="200" height="150"></li>
     <li>Within the <code>Kaggle</code> folder upload your <code>kaggle.json</code> and <code>kaggle_install.sh</code>.</li>
 </ul>
 
@@ -37,4 +37,4 @@
 - The parameter `author/dataset` can retrieved from the URL (f.e. from `https://www.kaggle.com/datasets/shariful07/student-mental-health`, we would use `shariful07/student-mental-health`).
 - If the parameter `-f filename` is not provided, then the dataset will be downloaded as a `.zip` file. This parameter will be the name of the `.csv` (typically) file
 - In the below example the filename would be `"Student Mental Health".csv`. Generally, if the filename has spaces or special characters, it needs to be wrapped with double quotation marks (`""`).
-<img src="/img/kaggle-1.png" alt="Alt Text" width="300" height="150">
+<img src="/Kaggle/img/kaggle-1.png" alt="Alt Text" width="300" height="150">
