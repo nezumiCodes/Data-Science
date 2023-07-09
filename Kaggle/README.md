@@ -29,7 +29,7 @@
 - Run the `kaggle_install.sh` &rarr; `!bash kaggle_install.sh`
 - Return to the main directory `%cd "/content"` (if you don't, your files will be saved within the `Kaggle` folder)
 
-<br><br><br><br>
+<br>
 
 ### Download a Dataset from Kaggle
 
